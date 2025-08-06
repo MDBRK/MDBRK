@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently diving into the world of cybersecurity and eager to expand my knowledge<br>👯 i am open to connecting with others<br>🌱 I’m currently learning Cybersecurity :)<br>💬 Ask me about my favorite ERA (2014-2018) <br>⚡ Fun fact : the first computer mouse was made of wood XD 
+🔭 currently diving into the world of cybersecurity and eager to expand my knowledge<br>👯 i am open to connecting with others<br>🌱 I’m currently learning Cybersecurity :)<br>💬 Ask me about my favorite ERA (2014-2018) <br>⚡ Fun fact : the first computer mouse was made of wood  
 
 
 ## 🌐 Socials:
