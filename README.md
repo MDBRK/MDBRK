@@ -1,6 +1,8 @@
 
 ![maxresdefault](https://github.com/user-attachments/assets/0a29c50c-583f-420d-a6e3-eb518dd59581)
-                           ![logo-red](https://github.com/user-attachments/assets/da92d367-126f-41ba-b059-51ed4e5fdb93)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da92d367-126f-41ba-b059-51ed4e5fdb93" width="1000" />
+</p>
 
 
 # 💻 Tech Stack:
