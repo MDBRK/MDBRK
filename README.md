@@ -5,7 +5,7 @@
 
 
 
-# ❌ Tech Stack:
+
 <img src="https://skillicons.dev/icons?i=ansible,arch,bash,c,cs,cpp,debian,discord,docker,git,grafana,kali,less,mysql,obsidian,php,python,ubuntu,vim,visualstudio,vscode" />
 
 <!-- 🧰 Additional Skills -->
