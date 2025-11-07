@@ -44,7 +44,7 @@
 
 <!-- Top: Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDBRK&theme=dark&hide_border=false" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDBRK&theme=midnight-purple&hide_border=true&border_radius=4.4" width="600"/>
 </p>
 
 <!-- Bottom: Stats and Top Languages side by side -->
