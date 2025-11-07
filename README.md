@@ -49,9 +49,9 @@
 
 <!-- Bottom: Stats and Top Languages side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDBRK&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MDBRK&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" width="350"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDBRK&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDBRK&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="350"/>
 </p>
 
 
