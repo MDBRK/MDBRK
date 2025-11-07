@@ -6,28 +6,59 @@
 
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-%2300599C.svg?style=for-the-badge&logo=A%2B%2B&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-%2300599C.svg?style=for-the-badge&logo=YARA%2B%2B&logoColor=white) ![Radare2](https://img.shields.io/badge/RADARE2-%2300599C.svg?style=for-the-badge&logo=RADARE2%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MDBRK&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MDBRK&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MDBRK&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# ❌ Tech Stack:
+<img src="https://skillicons.dev/icons?i=ansible,arch,bash,c,cs,cpp,debian,discord,docker,git,grafana,kali,less,mysql,obsidian,php,python,ubuntu,vim,visualstudio,vscode" />
+
+<!-- 🧰 Additional Skills -->
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Radare2](https://img.shields.io/badge/RADARE2-%2300599C.svg?style=for-the-badge&logo=RADARE2%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-%2300599C.svg?style=for-the-badge&logo=YARA%2B%2B&logoColor=white)
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%2300599C.svg?style=for-the-badge&logo=A%2B%2B&logoColor=white)
+
+
+<hr style="border: 2px solid red;"/>
+
+<table>
+  <tr>
+    <td align="center">
+      <h3> Top Contributed Repo</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=MDBRK&limit=5&theme=shadow_red&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="600"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.stargazers.worldmap.svg" alt="Stargazers world map" width="400"/>
+    </td>
+  </tr>
+</table>
+
+<hr style="border: 2px solid red;"/>
+
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<!-- Top: Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDBRK&theme=dark&hide_border=false" width="600"/>
+</p>
+
+<!-- Bottom: Stats and Top Languages side by side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MDBRK&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" width="450"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDBRK&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="450"/>
+</p>
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MDBRK&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
+### 📈 Habits Chart
+<img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.habits.charts.svg" alt="Habits Chart" width="700"/>
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=MDBRK&icon=0&color=0)](https://visitcount.itsvg.in)
-
- 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
