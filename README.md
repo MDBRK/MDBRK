@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/da92d367-126f-41ba-b059-51ed4e5fdb93" width="1000" />
 </p>
-
-![maxresdefault](https://github.com/user-attachments/assets/0a29c50c-583f-420d-a6e3-eb518dd59581)
+<img src="https://raw.githubusercontent.com/MDBRK/Scripts/refs/heads/main/banner-red.gif" alt="Banner Red" width="1000"/>
 
 
 
