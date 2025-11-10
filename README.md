@@ -53,6 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDBRK&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="350"/>
 </p>
 
+![Immagine WhatsApp 2025-11-10 ore 19 40 23_b1a75b57](https://github.com/user-attachments/assets/bd66fb4e-c4fd-464a-a96b-e7d239d49cec)
 
 
 ### 📈 Habits Chart
