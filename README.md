@@ -42,18 +42,21 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <!-- Top: Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDBRK&theme=midnight-purple&hide_border=true&border_radius=4.4" width="600"/>
-</p>
 
-<!-- Bottom: Stats and Top Languages side by side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDBRK&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" width="350"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDBRK&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="350"/>
-</p>
 
-![Immagine WhatsApp 2025-11-10 ore 19 40 23_b1a75b57](https://github.com/user-attachments/assets/bd66fb4e-c4fd-464a-a96b-e7d239d49cec)
+<table>
+<tr>
+<td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDBRK&theme=midnight-purple&hide_border=true&border_radius=4.4" width="400"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=MDBRK&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" width="400"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDBRK&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400"/>
+</td>
+<td>
+  <img src="https://github.com/user-attachments/assets/bd66fb4e-c4fd-464a-a96b-e7d239d49cec" width="600"/>
+</td>
+</tr>
+</table>
+
 
 
 ### 📈 Habits Chart
