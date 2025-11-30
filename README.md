@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/da92d367-126f-41ba-b059-51ed4e5fdb93" width="1000" />
 </p>
-<img src="https://raw.githubusercontent.com/MDBRK/Scripts/refs/heads/main/banner-red.gif" alt="Banner Red" width="1000"/>
 
+<img src="https://github.com/user-attachments/assets/443a564b-67e9-4a32-ab24-cae795f93a99" width="1000">
 
 
 
